@@ -1,4 +1,4 @@
-## Hello, there 👋
+## Hello, there! welcome to my GitHub page 👋
 🔭 I’m currently studying informatics engineering with a data science concentration.<br>🌱 I’m currently learning Data Scientist with Python on DataCamp.<br>💬 Ask me about everything related to technology, I will answer them as best as I can.
 
 
