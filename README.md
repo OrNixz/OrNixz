@@ -2,7 +2,7 @@
   <img height="450" src="https://github.com/OrNixz/VolunterPembuatanAplikasi/blob/main/79Pm.gif"  />
 </div>
 
-<p align="center"><b>"A life that lives without doing anything is the same as a slow death."<b><br>Leluouch Lamperouge</p>
+<h3 align="center">"A life that lives without doing anything is the same as a slow death. <br><i>Lelouch Lamperouge</i>"</h3>
 
 ###
 
