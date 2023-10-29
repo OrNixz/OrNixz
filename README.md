@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="https://i.gifer.com/79Pm.gif"  />
+</div>
+
 ## Hello there! Welcome to my GitHub page 👋
 🔭 I’m currently studying informatics engineering with a data science concentration.<br>🌱 I’m currently learning Data Scientist with Python on DataCamp.<br>💬 Ask me about everything related to technology, I will answer them as best as I can.
 
