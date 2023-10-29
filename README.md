@@ -1,3 +1,5 @@
+<h2 align="center">Hello there! Welcome to my GitHub page 👋</h2>
+
 <div align="center">
   <img height="400" src="https://github.com/OrNixz/VolunterPembuatanAplikasi/blob/main/79Pm.gif"  />
 </div>
@@ -18,6 +20,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/ramadhanafif172" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/afifrmdhn27" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
