@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! Welcome to my GitHub page 👋</h2>
 
 <div align="center">
-  <img height="400" src="https://github.com/OrNixz/VolunterPembuatanAplikasi/blob/main/79Pm.gif"  />
+  <img height="400" src="https://github.com/OrNixz/Daftar-Biodata-Siswa/blob/main/79Pm.gif"  />
 </div>
 
 <h3 align="center">"A life that lives without doing anything is the same as a slow death."<br><i>Lelouch Lamperouge</i></h3>
