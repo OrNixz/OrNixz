@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" src="https://i.gifer.com/79Pm.gif"  />
+  <img height="350" src="https://github.com/OrNixz/VolunterPembuatanAplikasi/blob/main/79Pm.gif"  />
 </div>
 
-<p align="center">"A life that lives without doing anything is the same as a slow death." <br>Leluouch Lamperouge</p>
+<p align="center"><b>"A life that lives without doing anything is the same as a slow death."<b><br>Leluouch Lamperouge</p>
 
 ###
 
