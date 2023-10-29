@@ -60,6 +60,18 @@
 </div>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OrNixz&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OrNixz&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
+
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=OrNixz&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
+
+### ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
