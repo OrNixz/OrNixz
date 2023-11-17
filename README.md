@@ -1,4 +1,5 @@
-<h2 align="center">Hello there! Welcome to my GitHub page 👋</h2>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=35&pause=1000&color=E2561D&background=FFFFFF00&center=true&random=false&width=700&height=60&lines=Hello+there!+Welcome+to+my+GitHub+page+%F0%9F%91%8B" alt="Typing SVG" /></a></h3>
+
 
 <div align="center">
   <img height="370" src="https://github.com/OrNixz/Daftar-Biodata-Siswa/blob/main/79Pm.gif"  />
