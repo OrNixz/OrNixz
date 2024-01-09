@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img height="370" src="https://github.com/OrNixz/Daftar-Biodata-Siswa/blob/main/79Pm.gif"  />
+  <img height="370" src="https://github.com/OrNixz/OrNixz/blob/main/79Pm.gif"  />
 </div>
 
 <h3 align="center">"A life that lives without doing anything is the same as a slow death."<br><i>Lelouch Lamperouge</i></h3>
